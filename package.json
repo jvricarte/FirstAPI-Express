@@ -1,0 +1,26 @@
+{
+  "name": "FirstAPIExpress",
+  "version": "1.0.0",
+  "description": "Este projeto serve apenas para testar conhecimentos iniciais de Node.js com Express e Postman",
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvricarte/FirstAPI-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvricarte/FirstAPI-Express/issues"
+  },
+  "homepage": "https://github.com/jvricarte/FirstAPI-Express#readme"
+}
