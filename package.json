@@ -1,13 +1,15 @@
 {
-  "name": "FirstAPIExpress",
+  "name": "firstapiexpress",
   "version": "1.0.0",
   "description": "Este projeto serve apenas para testar conhecimentos iniciais de Node.js com Express e Postman",
   "main": "src/server.js",
   "dependencies": {
-    "express": "^4.16.2",
-    "nodemon": "^2.0.6"
+    "body-parser": "1.18.2",
+    "express": "^4.16.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  },
   "scripts": {
     "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
